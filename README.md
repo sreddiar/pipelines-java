@@ -1,3 +1,4 @@
+[![Build Status](https://sanantoniofriends.visualstudio.com/SampleTest/_apis/build/status/sreddiar.pipelines-java?branchName=master)](https://sanantoniofriends.visualstudio.com/SampleTest/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
